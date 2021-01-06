@@ -2,6 +2,10 @@
 
 ![git-component](img/git-component.svg)
 
+## Squash
+
+合并两次本地提交记录，如果push到远程仓库，则不行
+
 ## Merge vs. Rebase
 
 ### 假设有如下分支
