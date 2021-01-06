@@ -6,6 +6,16 @@
 
 合并两次本地提交记录，如果push到远程仓库，则不行
 
+## lfs
+
+```shell
+git lfs track "*.png"
+git lfs track "*.svg"
+git lfs track "*.jpg"
+git lfs track "*.xmind"
+git lfs track "*.pdf"
+```
+
 ## Merge vs. Rebase
 
 ### 假设有如下分支
